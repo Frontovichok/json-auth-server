@@ -1,0 +1,23 @@
+{
+	"users": [],
+	"contacts": [
+		{
+			"id": 1,
+			"name": "Dima",
+			"phone": 8987,
+			"city": "Moscow"
+		},
+		{
+			"id": 2,
+			"name": "Vasya",
+			"phone": 8988,
+			"city": "Voronej"
+		},
+		{
+			"id": 3,
+			"name": "Maga",
+			"phone": 8989,
+			"city": "Kaspiysk"
+		}
+	]
+}
