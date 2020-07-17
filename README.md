@@ -4,12 +4,11 @@ JSON сервер для тестового приложения. Умеет а�
 
 ```bash
 yarn install
-# with json-server-auth installed globally
 ```
 
 Ну а после установки запустить сервер командой:
 
 ```bash
-## json-server db.json -m ./node_modules/json-server-auth
-# где json-server-auth должен быть установлен глобально
+json-server db.json -m ./node_modules/json-server-auth
+# при этом json-server-auth должен быть установлен глобально
 ```
