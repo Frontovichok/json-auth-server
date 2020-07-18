@@ -3,21 +3,21 @@
 	"contacts": [
 		{
 			"id": 1,
-			"name": "Dima",
-			"phone": 8987,
-			"city": "Moscow"
+			"name": "Игорь",
+			"phone": "8988 888 88 88",
+			"city": "Москва"
 		},
 		{
 			"id": 2,
-			"name": "Vasya",
-			"phone": 8988,
-			"city": "Voronej"
+			"name": "Мага",
+			"phone": "8988 777 77 77",
+			"city": "Хахачкала"
 		},
 		{
 			"id": 3,
-			"name": "Maga",
-			"phone": 8989,
-			"city": "Kaspiysk"
+			"name": "Дима",
+			"phone": "8988 666 66 66",
+			"city": "Воронеж"
 		}
 	]
 }
